@@ -1,0 +1,5 @@
+D:\Dust\Documents\Visual Studio 2012\Projects\CasparCGAMCPWebApi\OscWebPage\bin\OscWebPage.dll
+D:\Dust\Documents\Visual Studio 2012\Projects\CasparCGAMCPWebApi\OscWebPage\bin\OscWebPage.pdb
+D:\Dust\Documents\Visual Studio 2012\Projects\CasparCGAMCPWebApi\OscWebPage\obj\Release\OscWebPage.csprojResolveAssemblyReference.cache
+D:\Dust\Documents\Visual Studio 2012\Projects\CasparCGAMCPWebApi\OscWebPage\obj\Release\OscWebPage.dll
+D:\Dust\Documents\Visual Studio 2012\Projects\CasparCGAMCPWebApi\OscWebPage\obj\Release\OscWebPage.pdb

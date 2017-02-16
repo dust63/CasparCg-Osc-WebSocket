@@ -1,0 +1,5 @@
+D:\Dust\Documents\visual studio 2012\Projects\CasparCg-Osc-WebSocket\OscWebPage\bin\OscWebPage.dll
+D:\Dust\Documents\visual studio 2012\Projects\CasparCg-Osc-WebSocket\OscWebPage\bin\OscWebPage.pdb
+D:\Dust\Documents\visual studio 2012\Projects\CasparCg-Osc-WebSocket\OscWebPage\obj\Debug\OscWebPage.dll
+D:\Dust\Documents\visual studio 2012\Projects\CasparCg-Osc-WebSocket\OscWebPage\obj\Debug\OscWebPage.pdb
+d:\dust\documents\visual studio 2012\Projects\CasparCg-Osc-WebSocket\OscWebPage\obj\Debug\OscWebPage.csprojResolveAssemblyReference.cache
