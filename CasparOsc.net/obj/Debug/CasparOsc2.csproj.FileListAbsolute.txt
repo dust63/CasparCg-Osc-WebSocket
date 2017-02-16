@@ -1,0 +1,6 @@
+d:\dust\documents\visual studio 2012\Projects\CasparCg-Osc-WebSocket\CasparOsc2\bin\Debug\CasparOsc2.dll
+d:\dust\documents\visual studio 2012\Projects\CasparCg-Osc-WebSocket\CasparOsc2\bin\Debug\CasparOsc2.pdb
+d:\dust\documents\visual studio 2012\Projects\CasparCg-Osc-WebSocket\CasparOsc2\bin\Debug\Bespoke.Common.dll
+d:\dust\documents\visual studio 2012\Projects\CasparCg-Osc-WebSocket\CasparOsc2\bin\Debug\Bespoke.Common.Osc.dll
+d:\dust\documents\visual studio 2012\Projects\CasparCg-Osc-WebSocket\CasparOsc2\obj\Debug\CasparOsc2.dll
+d:\dust\documents\visual studio 2012\Projects\CasparCg-Osc-WebSocket\CasparOsc2\obj\Debug\CasparOsc2.pdb

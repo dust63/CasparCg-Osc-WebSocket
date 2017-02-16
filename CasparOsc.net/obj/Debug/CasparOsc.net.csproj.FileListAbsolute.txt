@@ -1,0 +1,9 @@
+D:\Dust\Documents\visual studio 2012\Projects\CasparCg-Osc-WebSocket\CasparOsc.net\bin\Debug\CasparOsc2.dll
+D:\Dust\Documents\visual studio 2012\Projects\CasparCg-Osc-WebSocket\CasparOsc.net\bin\Debug\CasparOsc2.pdb
+D:\Dust\Documents\visual studio 2012\Projects\CasparCg-Osc-WebSocket\CasparOsc.net\bin\Debug\Bespoke.Common.dll
+D:\Dust\Documents\visual studio 2012\Projects\CasparCg-Osc-WebSocket\CasparOsc.net\bin\Debug\Bespoke.Common.Osc.dll
+D:\Dust\Documents\visual studio 2012\Projects\CasparCg-Osc-WebSocket\CasparOsc.net\bin\Debug\Newtonsoft.Json.dll
+D:\Dust\Documents\visual studio 2012\Projects\CasparCg-Osc-WebSocket\CasparOsc.net\bin\Debug\Newtonsoft.Json.xml
+D:\Dust\Documents\visual studio 2012\Projects\CasparCg-Osc-WebSocket\CasparOsc.net\obj\Debug\CasparOsc.net.csprojResolveAssemblyReference.cache
+D:\Dust\Documents\visual studio 2012\Projects\CasparCg-Osc-WebSocket\CasparOsc.net\obj\Debug\CasparOsc2.dll
+D:\Dust\Documents\visual studio 2012\Projects\CasparCg-Osc-WebSocket\CasparOsc.net\obj\Debug\CasparOsc2.pdb
